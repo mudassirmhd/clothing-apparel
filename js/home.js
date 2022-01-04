@@ -13,3 +13,5 @@ productContainers.forEach((item, i) => {
         item.scrollLeft -= containerWidth;
     })
 })
+
+console.log("testing");
